@@ -180,3 +180,6 @@ alias g="git"
 alias gs="git status"
 alias gl="git log"
 alias grh="git reset --hard"
+
+## Change color of dir ##
+eval "$(dircolors ~/.dircolors)";
